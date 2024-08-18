@@ -1,0 +1,1 @@
+let fakeBin = x => x.split('').map(x => x < 5 ? 0 : 1).join('');
