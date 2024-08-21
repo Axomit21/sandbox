@@ -1,0 +1,2 @@
+secondCharacter = "Test";
+secondCharacter = character;
