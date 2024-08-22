@@ -1,0 +1,1 @@
+let oddOrEven = array => array.reduce((x, i) => x + i, 0) % 2 ? 'odd' : 'even';
