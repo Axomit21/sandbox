@@ -1,0 +1,1 @@
+let openOrSenior = data => data.map(e => e[0] > 54 && e[1] > 7 ? "Senior" : "Open");
