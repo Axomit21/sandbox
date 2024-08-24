@@ -1,0 +1,1 @@
+const binaryArrayToNumber = arr => arr.reverse().reduce((init, curr, i) => init + curr * Math.pow(2, i));
